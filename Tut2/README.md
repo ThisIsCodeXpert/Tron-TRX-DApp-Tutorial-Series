@@ -5,13 +5,13 @@ Tron (TRX) DApp Tutorial 2 - Setting Up Tronbox Sample Project
 
 Tron (TRX) DApp tutorial series will help you learn how to build DApps (decentralized applications) on Tron Blockchain with the help of TronBox, TronWeb and Shasta test network. Since the launch of TRON Virtual Machine, and a full suite of developer tools, developers can easily deploy smart contracts and build new DApps.
 
-# This tutorial series is intended to give you the basic idea about how to work on Tron DApps.
+> This tutorial series is intended to give you the basic idea about how to work on Tron DApps.
 
-# Feel free to comment your questions below. I will do my best to answer your question.
+> Feel free to comment your questions below. I will do my best to answer your question.
 
-# Please subscribe to our channel, because that will help me sustain on YouTube and create more awesome tutorials like this..!
+> Please subscribe to our channel, because that will help me sustain on YouTube and create more awesome tutorials like this..!
 
-# Like this video if you found it helpful.
+> Like this video if you found it helpful.
 
 ————————————————————
 GitHub link : https://github.com/ThisIsCodeXpert/Tron-TRX-DApp-Tutorial-Series/tree/master/Tut2
