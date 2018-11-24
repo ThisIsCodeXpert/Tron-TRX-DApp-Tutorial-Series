@@ -1,0 +1,75 @@
+.message-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.message {
+    background: #FFFFFF;
+    border-radius: 4px;
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.08);
+    display: inline-block;
+    margin: 0 10px;
+    margin-bottom: 20px;
+    width: 380px;
+    text-align: left;
+    padding: 20px;
+    position: relative;
+    transition: all 200ms ease;
+
+    .header {
+        display: flex;
+        flex-direction: row;
+
+        .owner {
+            font-size: 16px;
+            font-weight: 500;
+            padding-bottom: 6px;
+            word-break: keep-all;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .star {
+            margin-left: 20px;
+            font-size: 20px;
+            line-height: 20px;
+            color: #f1d120;
+        }
+    }    
+
+    .body {
+        font-size: 16px;
+        word-break: break-all;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: row;
+        font-size: 16px;
+
+        .timestamp {
+            word-break: keep-all;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .tips {
+            flex: 1;
+            text-align: right;
+            white-space: nowrap;
+            padding-left: 10px;
+        }
+    }
+}
+
+.message.tippable:not(.requiresTronLink):hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+.message:not(.tippable):hover, .message.requiresTronLink:hover {
+    cursor: not-allowed;
+}
