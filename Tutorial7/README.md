@@ -1,4 +1,4 @@
-Tron (TRX) DApp Tutorial 2 - Setting Up Tronbox Sample Project
+Tron (TRX) DApp Tutorial 7 - Understanding Front-End Template
 
 
 
@@ -14,7 +14,7 @@ Tron (TRX) DApp tutorial series will help you learn how to build DApps (decentra
 > Like this video if you found it helpful.
 
 ————————————————————
-GitHub link : https://github.com/ThisIsCodeXpert/Tron-TRX-DApp-Tutorial-Series/tree/master/Tutorial2
+GitHub link : https://github.com/ThisIsCodeXpert/Tron-TRX-DApp-Tutorial-Series/tree/master/Tutorial7
 
 ————————————————————
 References :
