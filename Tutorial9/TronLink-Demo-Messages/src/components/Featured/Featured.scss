@@ -1,0 +1,23 @@
+.featured {
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 30px;
+    padding: 0 10px;
+
+    .scrollable {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .message {
+        margin-bottom: 0;
+    }
+
+    .message-wrapper:first-of-type .message {
+        margin-left: 0;
+    }
+
+    .message-wrapper:last-of-type .message {
+        margin-right: 0;
+    }
+}
