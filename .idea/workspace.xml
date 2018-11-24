@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64fcfe86-20f6-4030-8e34-11e7fa5eb104" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Tut2/TronLink-Demo-Messages/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tut2/TronLink-Demo-Messages/src/utils/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tut2/TronLink-Demo-Messages/tronbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tut2/TronLink-Demo-Messages/tronbox.js" afterDir="false" />
-    </list>
+    <list default="true" id="64fcfe86-20f6-4030-8e34-11e7fa5eb104" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +19,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="2" />
+          <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -42,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tut2/TronLink-Demo-Messages/src/utils/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -51,10 +50,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tut2/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Tut2/TronLink-Demo-Messages" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -67,6 +75,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Tut2/TronLink-Demo-Messages/src/utils/index.js" />
+        <option value="$PROJECT_DIR$/Tut2/README.md" />
       </list>
     </option>
   </component>
@@ -198,6 +207,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="59" selection-start-column="59" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tut2/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
         </state>
       </provider>
     </entry>
